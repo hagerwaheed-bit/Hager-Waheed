@@ -2,7 +2,7 @@
 Hi there 👋, I'm Hager
 
 ## 💡 About Me
-I'm a **Software Testing enthusiast** currently training at the **Digital Egypt Pioneers Initiative**.  
+I'm a **Software Testing** currently training at the **Digital Egypt Pioneers Initiative**.  
 I’m passionate about ensuring software quality through **manual testing** and exploring **automation tools**.  
 Looking forward to building my career as a **QA Engineer / Software Tester**.
 
@@ -14,7 +14,7 @@ Looking forward to building my career as a **QA Engineer / Software Tester**.
 - API Testing: Postman  
 - Performance Testing: JMeter  
 - Tools: Git, GitHub, Jira
-- 
+
 ---
 
 ## 📊 GitHub Stats
